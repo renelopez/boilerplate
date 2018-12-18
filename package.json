@@ -54,5 +54,14 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-hot-loader": "^4.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renelopez/boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/renelopez/boilerplate/issues"
+  },
+  "homepage": "https://github.com/renelopez/boilerplate#readme"
 }
