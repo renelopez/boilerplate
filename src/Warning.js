@@ -1,5 +1,4 @@
-import React from 'react'
-import ReactDom from 'react-dom'
+import React from "react";
 
 class Warning extends React.Component {
   render() {
@@ -7,8 +6,8 @@ class Warning extends React.Component {
       <div>
         <div>Take it easy man!!</div>
       </div>
-    )
+    );
   }
 }
 
-export default Warning
+export default Warning;
